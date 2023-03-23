@@ -15,7 +15,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ###    🐱‍🏍Como acessar o projeto
 ```bash
 
-$ https://fagnercarrena.github.io/Sócio-Torcedor/
+$ https://github.com/FagnerCarrena/S-cio-Torcedor
 
 ```
 ---
